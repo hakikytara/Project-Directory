@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: beige;
+    color: #222;
+}
+
+header, main {
+    text-align: center;
+}
+
+.People {
+    font-size: 3rem;
+    font-weight: bold;
+    color: green;
+}
+
+.Of {
+    font-size: 3rem;
+    font-weight: bold;
+    color: orangered;
+}
+
+.The.Project {
+    font-size: 3rem;
+    font-weight: bold;
+    color: blue;
+}
+
+footer {
+    text-align: left;
+}
