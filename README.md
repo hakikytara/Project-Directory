@@ -7,6 +7,6 @@ I think yeah, this project are stupid, Why?, because y'all just type on your bro
 ## Must I permit to you for Modification and Fork?
 Nope, For Modification, you just edit, you know this project are open-source and for fun project, not the official project, just for fun. And the people who fork this, i hope the fork from y'all make it better than this the original.
 ## Usage
-Just open 'index.html' in Your Browser, all same for the '.html' file, except the '.css' file,and '.js' file.
+To Use: Just open 'index.html' in Your Browser(or any '.html')file, the '.css' and '.js' file linked automatically.
 ## Written by
 &copy; Hakiky Tara -- Licensed under MIT License
