@@ -1,1 +1,58 @@
+body { 
+    font-family: sans-serif; 
+    background-color: beige; 
+    color: #222; 
+}
 
+header, main { 
+    text-align: center; 
+}
+
+footer { 
+    text-align: left;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+.project { 
+    color: green;
+    font-size: 3rem; 
+    font-weight: bold;
+}
+
+.directory { 
+    color: blue; 
+    font-size: 3rem; 
+    font-weight: bold;
+}
+
+.badge-html5 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.badge-html5 img {
+    height: 32px;
+}
+
+.badge-html5 a {
+  color: #0a5fc0;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.badge-html5 a:hover {
+    text-decoration: underline;
+}
+
+footer .badge-html5 {
+  margin-top: 0;    
+  display: flex;
+  align-items: center;
+  gap: 6px; 
+}  
