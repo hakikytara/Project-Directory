@@ -37,4 +37,4 @@ I will review your contribution, and if everything looks good, it will be merged
 * Be respectful and Keep it simple guys, remember this is **"For Fun Project"**!
 * You can Delete or adding the new file,but must have a review and permission from me.
 ## Written by
-&copy; Hakiky Tara -- Licensed under PDPL-NC v1(created customly by HakikyTara, not deritative from GNU GPL v3, MIT License, or Anything else.
+&copy; Hakiky Tara -- Licensed under GNU General Public License version 3(GNU-GPL v3).
