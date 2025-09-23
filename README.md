@@ -34,6 +34,7 @@ I will review your contribution, and if everything looks good, it will be merged
 ## Contribution Guidelines
 * Keep commit messages clear & concise
 * Validate your HTML/CSS before submitting
-* Be respectful and Keep it simple guys, remember this is **"For Fun Project"**!.
+* Be respectful and Keep it simple guys, remember this is **"For Fun Project"**!
+* You can Delete or adding the new file,but must have a review and permission from me.
 ## Written by
-&copy; Hakiky Tara -- Licensed under MIT License
+&copy; Hakiky Tara -- Licensed under PDPL-NC v1(created customly by HakikyTara, not deritative from GNU GPL v3, MIT License, or Anything else.
